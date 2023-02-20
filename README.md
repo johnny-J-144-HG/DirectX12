@@ -1,7 +1,7 @@
 # **:プログラム概要**
 開発期間:約半年
 
-PMDモデルの表示、モデルの移動と回転、カメラの上下の視点移動を行うプログラム
+DirectX12を利用したPMDモデルの表示、モデルの移動と回転、カメラの上下の視点移動を行うプログラム
 
 ※現在、3D空間上をモデルが移動するプログラムへ改良中
 
@@ -10,7 +10,7 @@ PMDモデルの表示、モデルの移動と回転、カメラの上下の視�
 
 開発環境：Visual Studio 2019
 
-使用API＆ライブラリ：DirectX12API、DirectXMath、DirectXTex
+使用API＆ライブラリ：DirectX12API、DirectXMath、DirectXTex、DirectInput
 
 ## **:実行環境**
 実行可能環境：Windows10
