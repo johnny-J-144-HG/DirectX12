@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中間ディレクトリ (Debug\) に別のプロジェクト (Chapter07.vcxproj) と共有されているファイルが含まれています。これにより、クリーンしてリビルド動作が適切に行われない可能性があります。
+  main.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\sotuken\directx12_samples-master\sotuken\main.cpp(416,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\sotuken\directx12_samples-master\sotuken\main.cpp(585,21): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\sotuken\directx12_samples-master\sotuken\main.cpp(594,21): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\sotuken\directx12_samples-master\sotuken\main.cpp(735,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  sotuken.vcxproj -> C:\sotuken\directx12_samples-master\Debug\sotuken.exe

@@ -1,0 +1,7 @@
+﻿C:\sotuken\directx12_samples-master\Chapter7\BasicPixelShader.hlsl(13,21-45): warning X3206: 'dot': implicit truncation of vector type
+  
+  compilation object save succeeded; see C:\sotuken\directx12_samples-master\Debug\BasicPixelShader.cso
+  compilation object save succeeded; see C:\sotuken\directx12_samples-master\Debug\BasicVertexShader.cso
+  main.cpp
+C:\sotuken\directx12_samples-master\Chapter7\main.cpp(287,21): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  Chapter7.vcxproj -> C:\sotuken\directx12_samples-master\Debug\Chapter07.exe
